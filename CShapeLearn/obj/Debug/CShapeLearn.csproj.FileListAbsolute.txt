@@ -1,0 +1,8 @@
+E:\_2_C#\CShapeLearn\CShapeLearn\bin\Debug\CShapeLearn.exe.config
+E:\_2_C#\CShapeLearn\CShapeLearn\bin\Debug\CShapeLearn.exe
+E:\_2_C#\CShapeLearn\CShapeLearn\bin\Debug\CShapeLearn.pdb
+E:\_2_C#\CShapeLearn\CShapeLearn\obj\Debug\CShapeLearn.csproj.AssemblyReference.cache
+E:\_2_C#\CShapeLearn\CShapeLearn\obj\Debug\CShapeLearn.csproj.SuggestedBindingRedirects.cache
+E:\_2_C#\CShapeLearn\CShapeLearn\obj\Debug\CShapeLearn.csproj.CoreCompileInputs.cache
+E:\_2_C#\CShapeLearn\CShapeLearn\obj\Debug\CShapeLearn.exe
+E:\_2_C#\CShapeLearn\CShapeLearn\obj\Debug\CShapeLearn.pdb
